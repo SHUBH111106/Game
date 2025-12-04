@@ -2,7 +2,7 @@
 
 
 ## Compile:
-gcc game.c -o game -lwinmm
+gcc game.c -o game -lwinmm 
 
 # Run:
 ./game
