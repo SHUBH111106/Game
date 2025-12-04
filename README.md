@@ -3,5 +3,5 @@
 
 ## Compile:
 gcc game.c -o game -lwinmm
-###Run:
+##Run:
 ./game
